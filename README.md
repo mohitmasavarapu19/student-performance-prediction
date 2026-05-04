@@ -216,14 +216,23 @@ Click the badge below to run directly in your browser:
 
 ## 📉 Visualizations
 
-The project generates 6 output plots saved in the `outputs/` folder:
+### LSTM Training History
+![LSTM History](outputs/lstm_history.png)
 
-1. **LSTM Training History** — Accuracy & Loss curves over 20 epochs
-2. **ANN Training History** — Accuracy & Loss curves over 20 epochs
-3. **LSTM Confusion Matrix** — Heatmap of actual vs predicted classes
-4. **ANN Confusion Matrix** — Heatmap of actual vs predicted classes
-5. **Model Comparison** — Bar chart of LSTM vs ANN accuracy
-6. **Class Distribution** — Distribution of performance categories in the dataset
+### ANN Training History
+![ANN History](outputs/ann_history.png)
+
+### LSTM Confusion Matrix
+![LSTM Confusion](outputs/lstm_confusion.png)
+
+### ANN Confusion Matrix
+![ANN Confusion](outputs/ann_confusion.png)
+
+### Model Comparison
+![Model Comparison](outputs/model_comparison.png)
+
+### Class Distribution
+![Class Distribution](outputs/class_distribution.png)
 
 ---
 
